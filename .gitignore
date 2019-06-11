@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Scripts folder
+/scripts/twitterCredentials.py
+/scripts/dropboxCredentials.py
+/scripts/images
+/scripts/cache
+/data/extracted
